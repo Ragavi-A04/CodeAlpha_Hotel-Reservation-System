@@ -89,7 +89,7 @@ Downloads Folder
 
 ## 📝 Signup & Role Selection
 ```markdown
-![Signup + Select Role](Screenshots/signup & rolechoose.png)
+![Signup + Select Role](Screenshots/signup& rolechoose.png)
 ```
 
 ## 🏠 Dashboard
