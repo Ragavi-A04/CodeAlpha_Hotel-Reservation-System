@@ -83,12 +83,12 @@ Downloads Folder
 ---
 
 ## 🔐 Login Page
-```markdown
+
 ![Login](Screenshots/login.png)
 ```
 
 ## 📝 Signup & Role Selection
-```markdown
+
 ![Signup + Select Role](Screenshots/signup& rolechoose.png)
 ```
 
