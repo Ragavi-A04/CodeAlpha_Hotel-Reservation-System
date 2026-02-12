@@ -85,49 +85,49 @@ Downloads Folder
 ## 🔐 Login Page
 
 ![Login](Screenshots/login.png)
-```
+
 
 ## 📝 Signup & Role Selection
 
 ![Signup + Select Role](Screenshots/signup& rolechoose.png)
-```
+
 
 ## 🏠 Dashboard
-```markdown
+
 ![Dashboard](Screenshots/dashboard.png)
-```
+
 
 ## ➕ Admin Adding Room
-```markdown
+
 ![Admin Add Room](Screenshots/admin can addroom.png)
 ![Customer cannot Add Room-->Adim Only](Screenshots/customercant add room.png)
-```
+
 
 ## 🛏 Book Room Page
-```markdown
+
 ![Book Room](Screenshots/bookroom.png)
-```
+
 
 ## ✅ Reservation Success
-```markdown
+
 ![Reservation Success](Screenshots/reservesuccess.png)
-```
+
 
 ## ❌ Cancel Booking
-```markdown
+
 ![Cancel Booking](Screenshots/roomcancel.png)
 ![Cancel Booking](Screenshots/roomcancelled.png)
-```
+
 
 ## 📄 Downloaded Receipt
-```markdown
+
 ![Downloaded PDF](Screenshots/downloadedpdf.png)
-```
+
 
 ## 📋 View Rooms
-```markdown
+
 ![View Rooms](Screenshots/viewrooms.png)
-```
+
 
 ---
 
