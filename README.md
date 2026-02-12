@@ -89,7 +89,8 @@ Downloads Folder
 
 ## 📝 Signup & Role Selection
 
-![Signup + Select Role](Screenshots/signup& rolechoose.png)
+![Signup + Select Role](https://github.com/Ragavi-A04/CodeAlpha_Hotel-Reservation-System/blob/main/Screenshots/signup%26%20rolechoose.png)
+![Account Created](https://github.com/Ragavi-A04/CodeAlpha_Hotel-Reservation-System/blob/main/Screenshots/accountcreated.png)
 
 
 ## 🏠 Dashboard
@@ -99,9 +100,9 @@ Downloads Folder
 
 ## ➕ Admin Adding Room
 
-![Admin Add Room](Screenshots/admin can addroom.png)
+![Admin Add Room](https://github.com/Ragavi-A04/CodeAlpha_Hotel-Reservation-System/blob/main/Screenshots/admin%20can%20addromm.png)
 
-![Customer cannot Add Room-->Adim Only](Screenshots/customercant add room.png)
+![Customer cannot Add Room-->Adim Only](https://github.com/Ragavi-A04/CodeAlpha_Hotel-Reservation-System/blob/main/Screenshots/customercant%20add%20room.png)
 
 
 ## 🛏 Book Room Page
@@ -122,7 +123,7 @@ Downloads Folder
 
 ## 📄 Downloaded Receipt
 
-![Downloaded PDF](Screenshots/downloadedpdf.png)
+![Downloaded PDF](https://github.com/Ragavi-A04/CodeAlpha_Hotel-Reservation-System/blob/main/Screenshots/dowlodedpdf.png)
 
 
 ## 📋 View Rooms
